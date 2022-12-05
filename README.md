@@ -10,7 +10,9 @@ Devlights Bootcamps - plataforma FreeCodeCamp
 
 # Links
 
-| Carpeta | Link |
-| ------ | ------ |
-| 📁 01. JavaScript básico | [Ejercicios](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) |
-| 📁 02. Programación funcional | [Ejercicios](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming) |
+| Carpeta | Archivos| Link |
+| ------ | ------ | ------ |
+| 📁 01. JavaScript básico | 113 | [Ejercicios](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) |
+| 📁 02. ES6 | 29 | [Ejercicios](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6) |
+| 📁 03. Estructuras de datos básicas | 20 | [Ejercicios](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures) |
+| 📁 04. Programación funcional | 24 | [Ejercicios](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming) |
